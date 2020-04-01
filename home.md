@@ -2,9 +2,7 @@
 layout: tu
 ---
 
-<div style="margin:20px;">
-  <img class="w3-image" width="300" src="images/taiyo.jpg">
-</div>
+![taiyo-profile](images/taiyo.jpg)
 
 My name is Taiyo. I'm a student developer who likes to play games and watch YouTube.
 
