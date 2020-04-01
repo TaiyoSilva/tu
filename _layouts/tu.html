@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ page.title | default: TU Website }}</title>
+    <link href="css/w3.css" rel="stylesheet">
+    <link href="css/simple.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lato" rel="stylesheet">    
+    <style>
+      p {
+        font-family: 'Indie Flower', cursive;
+        font-size: xx-large;
+      }
+     </style>
+</head>
+
+<body>
+  {% include nav.html %}
+
+  <h1 class="font-effect-shadow-multiple">TU {{ page.title | default: WEBSITE }}</h1>
+  <p>Welcome to Taiyo's Universe</p>
+
+  <p>My name is Taiyo Silva.</p>
+  <p>I'm 7 years old.</p>
+  <p>I like Bayblades, Captain Underpants, and Dog Man.</p>
+</body>
+
+</html>

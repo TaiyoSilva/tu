@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: TU Website
+description: "A website for student developer: Taiyo Silva"
+theme: jekyll-theme-hacker
+
+show_downloads: false
