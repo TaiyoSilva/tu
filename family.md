@@ -1,7 +1,8 @@
 ---
 title: Family
-layout: tu
-photos: ['images/family/legoland.JPG']
+layout: main
 ---
 
 This is my family!
+
+![sonic]('images/family/legoland.JPG')

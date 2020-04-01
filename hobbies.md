@@ -1,7 +1,8 @@
 ---
 title: Family
-layout: tu
-images: ['images/family/water-park.jpg']
+layout: main
 ---
 
-I love water parks!
+# I love water parks!
+
+![water-park](images/family/water-park.jpg)
