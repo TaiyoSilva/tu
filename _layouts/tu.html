@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html>
+--- 
+layout: default
+---
 
-<head>
-  <title>{{ page.title | default: TU Website }}</title>
-  <link rel="stylesheet" href="assets/css/base-grid.css">
-  <link rel="stylesheet" href="assets/css/img-frame.css">
-</head>
+<link rel="stylesheet" href="assets/css/base-grid.css">
+<link rel="stylesheet" href="assets/css/img-frame.css">
 
-<body>
-  {% include nav.html %}
+{% include nav.html %}
 
-  {{ content }}
+{{ content }}
 
-  {% if page.images %}
-    {% include gallery %}
-  {% endif %}
-
-</body>
-
-</html>
+{% if page.images %}
+  {% include gallery %}
+{% endif %}
