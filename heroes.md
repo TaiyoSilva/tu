@@ -1,5 +1,6 @@
 ---
 title: Heroes
+layout: main
 ---
 
 My heroes include Shadic, the hedgehog, Greninja, the Kalos Region Pokemon, and many others.

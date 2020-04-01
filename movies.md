@@ -12,3 +12,5 @@ Back in 2018, the following were my top 3 movies:
 3. Avengers Infinity Wars
 
 Things have changed since then... so stay tuned for updates.
+
+{% include gallery.html %}
