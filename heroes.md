@@ -7,5 +7,5 @@ My heroes include Shadic, the hedgehog, Greninja, the Kalos Region Pokemon, and 
 
 This is hyper sonic. He is the form Sonic takes after getting a Chaos Emerald.
 
-![sonic](images/hyper-sonic.png)
-![greninja](images/Greninja.gif)
+![sonic](assets/images/hyper-sonic.png)
+![greninja](assets/images/Greninja.gif)

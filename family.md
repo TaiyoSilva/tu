@@ -5,4 +5,4 @@ layout: main
 
 This is my family!
 
-![sonic]('images/family/legoland.JPG')
+![sonic]('assets/images/family/legoland.JPG')

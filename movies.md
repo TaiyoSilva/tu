@@ -1,7 +1,7 @@
 ---
 title: Movies
-layout: tu
-images: ['images/movies/antman-movie.jpg','images/movies/ironman3.jpg','images/movies/avengersinfinitywar.jpg']
+layout: main
+images: ['assets/images/movies/antman-movie.jpg','assets/images/movies/ironman3.jpg','assets/images/movies/avengersinfinitywar.jpg']
 ---
 
 # My Favorite Movies
@@ -12,5 +12,3 @@ Back in 2018, the following were my top 3 movies:
 3. Avengers Infinity Wars
 
 Things have changed since then... so stay tuned for updates.
-
-{% include gallery.html %}

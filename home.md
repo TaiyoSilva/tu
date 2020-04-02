@@ -1,8 +1,8 @@
 ---
-layout: tu
+layout: main
 ---
 
-![taiyo-profile](images/taiyo.jpg)
+![taiyo-profile](assets/images/taiyo.jpg)
 
 # Welcome fellow traveller!
 My name is Taiyo. I'm a student developer who likes to play games and watch YouTube.
