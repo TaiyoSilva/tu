@@ -1,13 +1,9 @@
 ---
 layout: default
 ---
-<link href="assets/css/base-grid.css" rel="stylesheet" type="text/css">
-<link href="assets/css/img-frame.css" rel="stylesheet" type="text/css">
-
-{% include nav.html %}
 
 {{ content }}
 
 {% if page.images %}
-  {% include gallery %}
+  {% include gallery.html %}
 {% endif %}
